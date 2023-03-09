@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Accelerometer",
+    "country": "476476443",
+
+    "money": "ACC001"
+  },
+  {
+    "id": 2,
+    "name": "Strain sensor",
+    "country": "58585858s",
+
+    "money": "ST009"
+  },
+  {
+    "id": 3,
+    "name": "Thermometer",
+    "country": "4747477",
+
+    "money": "TEMP002"
+  },
+  {
+    "id": 4,
+    "name": "Tiltmeter",
+    "country": "2324324",
+
+    "money": "TIL568"
+  }
+]
